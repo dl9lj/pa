@@ -35,6 +35,14 @@ Power Amplifier with Interface to Hermes Lite 2 (HL2)
 
 ![J13](pics/PA8.jpg)
 
+#### Control and Protection
+- Control board with CPLD (LC Technology MAX II EPM240)
+- PTT, Rx/Tx sequencing, band selection with driver, LEDs, Buttons, FAN PWM
+- seperate over current protection board with BTS50085 (BTS660) set to 8A
+
+![J13](pics/PA4.jpg)
+
+
 #### Station
 - HL2 with amplifier and LDG AT-200Pro II Tuner transmitting at 14.1MHz
 - Output Power is at the limit of LDG (240W @ 45V/7A)
