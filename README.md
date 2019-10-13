@@ -15,3 +15,7 @@ Connectors
 - DB9 Band Selector Input
 - 3.5mm no function
 - Chinch PTT
+
+
+#### Station
+![J13](pics/PA7.jpg)
