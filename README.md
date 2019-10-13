@@ -1,4 +1,4 @@
-#pa
+# pa
 
 Power Amplifier with Interface to Hermes Lite 2 (HL2)
 
@@ -29,6 +29,11 @@ Power Amplifier with Interface to Hermes Lite 2 (HL2)
 
 ![J13](pics/PA3.jpg)
 
+#### PCB
+- KiCad design (1x MRF300AN / 4x MRF101AN)
+- boards from jlcpcb.com
+
+![J13](pics/PA8.jpg)
 
 #### Station
 - HL2 with amplifier and LDG AT-200Pro II Tuner transmitting at 14.1MHz
