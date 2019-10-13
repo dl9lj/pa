@@ -1,5 +1,6 @@
-#Power Amplifier
-with Interface to Hermes Lite 2 (HL2)
+#pa
+
+Power Amplifier with Interface to Hermes Lite 2 (HL2)
 
 Frontpanel
 - Push-Button for turning 50V supply
