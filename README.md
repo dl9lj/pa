@@ -1,5 +1,4 @@
-Power Amplifier
-
+#Power Amplifier
 with Interface to Hermes Lite 2 (HL2)
 
 Frontpanel
