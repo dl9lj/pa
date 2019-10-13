@@ -45,7 +45,7 @@ Power Amplifier with Interface to Hermes Lite 2 (HL2)
 
 #### Filter, SWR and Monitoring
 - Low-Pass-Filter from W6PQL (only 10, 20, 40 and 80m assembled)
-- 160m not assembled / 6m Relais used for Rx/Tx
+- 160m not assembled / 6m relays used for Rx/Tx
 - 2 Coupler from DJ0ABR to protect amplifier from High SWR (filter and antenna)
 - orange pi one (small die cast housing) with ADC (Abio Card) for monitoring Current, SWR and temperature
 
