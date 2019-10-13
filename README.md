@@ -51,6 +51,15 @@ Power Amplifier with Interface to Hermes Lite 2 (HL2)
 
 ![J13](pics/PA5.jpg)
 
+#### Hermes Lite 2 
+- standard die cast housing
+- thermal contact to PA transistors via copper tape
+- band select just used wires from P1-P7 and GND to DB9 (level shift with opto coupler in PA) 
+
+![J13](pics/HL2front.jpg)
+![J13](pics/HL2rear.jpg)
+![J13](pics/HL2top.jpg)
+
 #### Station
 - HL2 with amplifier and LDG AT-200Pro II Tuner transmitting at 14.1MHz
 - Output Power is at the limit of LDG (240W @ 45V/7A)
