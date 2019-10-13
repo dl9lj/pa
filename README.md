@@ -30,8 +30,9 @@ Power Amplifier with Interface to Hermes Lite 2 (HL2)
 ![J13](pics/PA3.jpg)
 
 #### PCB
-- KiCad design (1x MRF300AN / 4x MRF101AN)
+- KiCad design (1x MRF300AN / 5x MRF101AN)
 - boards from jlcpcb.com
+- first test with tiny MRF101AN board - output power abt. 120W
 
 ![J13](pics/PA8.jpg)
 
