@@ -1617,7 +1617,7 @@ L CONN_01X04 P14
 U 1 1 5DB1017E
 P 6900 3550
 F 0 "P14" H 6900 3800 50  0000 C CNN
-F 1 "CONN_01X04" V 7000 3550 50  0000 C CNN
+F 1 "4p" V 7000 3550 50  0000 C CNN
 F 2 "" H 6900 3550 50  0000 C CNN
 F 3 "" H 6900 3550 50  0000 C CNN
 	1    6900 3550
@@ -2483,9 +2483,25 @@ F 3 "" H 3100 4200 50  0000 C CNN
 	1    3100 5400
 	1    0    0    -1  
 $EndComp
-Text Notes 3450 4050 0    60   ~ 0
-1-2: LED 50V\n3-4-5: LED TX/OP\n6-7: PB 50V\n8-9: SW OP/StBy
+Text Notes 3400 4200 0    60   ~ 0
+Frontpanel\n1-2: LED 50V\n3-4-5: LED TX/OP\n6-7: PB 50V\n8-9: SW OP/StBy
 Connection ~ 3250 3600
-Text Notes 7100 3600 0    60   ~ 0
+Text Notes 7000 3700 0    60   ~ 0
 Fan
+Text Notes 7600 2900 0    60   ~ 0
+HL2\nBand Select
+Text Notes 7450 4450 0    60   ~ 0
+HL2\nPTT
+Text Notes 10650 4950 0    60   ~ 0
+PA Board\nBias
+Text Notes 7000 5100 0    60   ~ 0
+W6PQL\nFilter Board
+Text Notes 2850 5050 0    60   ~ 0
+Directional\nCoupler
+Text Notes 1200 4600 0    60   ~ 0
+Spare
+Text Notes 6150 1550 0    60   ~ 0
+J1
+Text Notes 550  3950 0    60   ~ 0
+Power Switch\nand LED
 $EndSCHEMATC
