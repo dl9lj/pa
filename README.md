@@ -24,7 +24,7 @@ Power Amplifier with Interface to Hermes Lite 2 (HL2)
 ![J13](pics/PA2.jpg)
 
 #### Amplifier Board with 10 dB Attenuator
-- input cicuit just attenuater and a 1nF capacitor (seems that nxp has not finished the reference circuit for 13.56MHz)
+- input circuit just attenuator and a 1nF capacitor (seems that nxp has not finished the reference circuit for 13.56MHz)
 - attenuator with 3 resistors (100-75-100 Ohm)
 
 ![J13](pics/PA3.jpg)
