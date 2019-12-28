@@ -67,3 +67,20 @@ Power Amplifier with Interface to Hermes Lite 2 (HL2)
 - Output voltages (3.3V, 5V, 12V and 42V/27.5A (can be set to 45V with trimmer)) 
 
 ![J13](pics/PA7.jpg)
+
+#### MRFE6VP61K25H PA
+- Amplifier with MRFE6VP61K25H Transistor 
+- PCB from W6PQL - circuit "shipped after June 2017" with small modification
+- R15 not installed, C25/26 220pF, L1/2 Wuerth 74270115 (9 Turns)
+- 10dB attenuator at the input
+
+![J13](pics/MRFEPA.png)
+
+#### Measurements
+- HL2 with SDR Console 3.0.16 2-Tone @ 0.7 (for clean output with 5W PAH). 2.6W IM3 abt. -40dBc
+- HL2 with PA - Gain of PA about 17dB (27dB Transistpr - 10dB attenuator). 130W IM3 abt. -38dBc 
+- R15 not installed, C25/26 220pF, L1/2 Wuerth 74270115 (9 Turns) 
+
+![J13](pics/HL2_70.png)
+
+![J13](pics/HL2_PA.png)
