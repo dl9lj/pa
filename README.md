@@ -79,7 +79,6 @@ Power Amplifier with Interface to Hermes Lite 2 (HL2)
 #### Measurements
 - HL2 with SDR Console 3.0.16 2-Tone @ 0.7 (for clean output with 5W PA). 2.6W IM3 abt. -40dBc
 - HL2 with PA - Gain of PA about 17dB (27dB Transistpr - 10dB attenuator). 130W IM3 abt. -38dBc 
-- R15 not installed, C25/26 220pF, L1/2 Wuerth 74270115 (9 Turns) 
 - measurements with Red Pitaya receiver and Quisk software 
 
 ![J13](pics/HL2_70.png)
